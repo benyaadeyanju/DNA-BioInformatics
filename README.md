@@ -5,7 +5,7 @@
 
 # Make sure you do the following installation before running the code
 
-### 1. ***Streamlit
+### 1. pip install streamlit
 ### 2. pip install pillow
 ### 3. pip install altair
 
